@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a Cloud Engineering Intern at HPE.
+
+See my personal GitHub profile: [AnthonyMichaelTDM](https://github.com/AnthonyMichaelTDM)
+
 <!--
 **rubicka-AIDE/rubicka-AIDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
