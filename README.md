@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Cloud Engineering Intern at HPE.
+I'm a Cloud Engineering Intern at HPE. Specifically, I'm in the SRE team at MIST Systems.
 
 See my personal GitHub profile: [AnthonyMichaelTDM](https://github.com/AnthonyMichaelTDM)
 
